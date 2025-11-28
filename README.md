@@ -15,20 +15,20 @@ Dự án này là một ứng dụng web/phần mềm cho phép người dùng t
 ## 🚀 Tính năng chính (Features)
 
 ### 👤 Dành cho Khách hàng (User)
-- Tìm kiếm thông minh:** Tìm phòng theo tên khách sạn, ngày nhận (Check-in) và ngày trả (Check-out).
-- **Xem chi tiết:** Xem thông tin phòng, tiện ích và giá cả chi tiết.
-- **Đặt phòng (Booking):** Nhập thông tin khách hàng và xác nhận đặt phòng.
-- **Đánh giá (Review):** Gửi đánh giá và bình luận sau khi hoàn thành kỳ nghỉ.
+ **Tìm kiếm thông minh:** Tìm phòng theo tên khách sạn, ngày nhận (Check-in) và ngày trả (Check-out).
+ **Xem chi tiết:** Xem thông tin phòng, tiện ích và giá cả chi tiết.
+ **Đặt phòng (Booking):** Nhập thông tin khách hàng và xác nhận đặt phòng.
+ **Đánh giá (Review):** Gửi đánh giá và bình luận sau khi hoàn thành kỳ nghỉ.
 
 ### 🛠 Dành cho Quản trị viên (Admin)
-- **Quản lý phòng:** Thêm/Sửa/Xóa phòng, loại phòng.
-- **Quản lý giá:** Cấu hình giá thay đổi theo mùa, theo ngày đặc biệt.
-- **Quản lý đơn đặt:** Xem danh sách booking, xử lý check-in/check-out.
+ **Quản lý phòng:** Thêm/Sửa/Xóa phòng, loại phòng.
+ **Quản lý giá:** Cấu hình giá thay đổi theo mùa, theo ngày đặc biệt.
+ **Quản lý đơn đặt:** Xem danh sách booking, xử lý check-in/check-out.
 
 ### ⚙️ Logic xử lý & Backend (Core Logic)
-- **Kiểm tra tính hợp lệ:** Thuật toán tự động phát hiện và ngăn chặn việc đặt trùng phòng trong cùng một khoảng thời gian.
-- **Cơ chế hủy phòng:** (Đang phát triển) Xử lý hoàn tiền hoặc tính phí dựa trên chính sách hủy.
-- **Tính toán chiết khấu:** Áp dụng mã giảm giá hoặc ưu đãi theo mùa.
+ **Kiểm tra tính hợp lệ:** Thuật toán tự động phát hiện và ngăn chặn việc đặt trùng phòng trong cùng một khoảng thời gian.
+ **Cơ chế hủy phòng:** (Đang phát triển) Xử lý hoàn tiền hoặc tính phí dựa trên chính sách hủy.
+ **Tính toán chiết khấu:** Áp dụng mã giảm giá hoặc ưu đãi theo mùa.
 
 ## 💻 Công nghệ sử dụng (Tech Stack)
 
