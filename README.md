@@ -15,7 +15,7 @@ Dự án này là một ứng dụng web/phần mềm cho phép người dùng t
 ## 🚀 Tính năng chính (Features)
 
 ### 👤 Dành cho Khách hàng (User)
-- **Tìm kiếm thông minh:** Tìm phòng theo tên khách sạn, ngày nhận (Check-in) và ngày trả (Check-out).
+- Tìm kiếm thông minh:** Tìm phòng theo tên khách sạn, ngày nhận (Check-in) và ngày trả (Check-out).
 - **Xem chi tiết:** Xem thông tin phòng, tiện ích và giá cả chi tiết.
 - **Đặt phòng (Booking):** Nhập thông tin khách hàng và xác nhận đặt phòng.
 - **Đánh giá (Review):** Gửi đánh giá và bình luận sau khi hoàn thành kỳ nghỉ.
