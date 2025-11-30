@@ -43,9 +43,10 @@ Trần Nguyễn Hồng Vinh (N23DCAT076)
 Nhiệm vụ: Code / Lập trình
 
 Nguyễn Trần Sony (N23DCAT059)
-Nhiệm vụ: Tạo bảng / Database
+Nhiệm vụ: Tạo bảng / Database, làm báo cáo
 
 Huỳnh Thị Như Quỳnh (N23DCCN186)
-Nhiệm vụ: Vẽ hình 
+Nhiệm vụ: Vẽ sơ đồ ERD, Use Case, UML, Làm báo cáo.
+
 
 
