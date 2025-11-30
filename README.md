@@ -36,16 +36,16 @@ Dự án này là một ứng dụng web/phần mềm cho phép người dùng t
 ## 👥 Thành Viên Nhóm Thực Hiện
 **Đề tài:** Hệ thống Quản lý Khách sạn & Du lịch
 
-## 📅 Phân công nhiệm vụ 
+Nguyễn Văn Phúc Hiệp (N23DCAT024) - Nhóm trưởng
+Nhiệm vụ: Code / Lập trình
 
-  **Vẽ hình / Mô hình hóa:** Huỳnh Thị Như Quỳnh (`N23DCCN186`)
-  
-  **Tạo bảng / Database:** Nguyễn Trần Sony (`N23DCAT059`)
-  
-  **Coding / Lập trình:**
-  
-   Nguyễn Văn Phúc Hiệp (`N23DCAT024`) - *Trưởng nhóm*
-      
-   Trần Nguyễn Hồng Vinh (`N23DCAT076`)
+Trần Nguyễn Hồng Vinh (N23DCAT076)
+Nhiệm vụ: Code / Lập trình
+
+Nguyễn Trần Sony (N23DCAT059)
+Nhiệm vụ: Tạo bảng / Database
+
+Huỳnh Thị Như Quỳnh (N23DCCN186)
+Nhiệm vụ: Vẽ hình 
 
 
