@@ -24,13 +24,6 @@ Dự án này là một ứng dụng web/phần mềm cho phép người dùng t
 
 **Đánh giá (Review):** Gửi đánh giá và bình luận sau khi hoàn thành kỳ nghỉ.
 
-### 🛠 Dành cho Quản trị viên (Admin)
-
-**Quản lý phòng:** Thêm/Sửa/Xóa phòng, loại phòng.
-
-**Quản lý giá:** Cấu hình giá thay đổi theo mùa, theo ngày đặc biệt.
-
-**Quản lý đơn đặt:** Xem danh sách booking, xử lý check-in/check-out.
 
 ### ⚙️ Logic xử lý & Backend (Core Logic)
 
@@ -40,9 +33,5 @@ Dự án này là một ứng dụng web/phần mềm cho phép người dùng t
 
 **Tính toán chiết khấu:** Áp dụng mã giảm giá hoặc ưu đãi theo mùa.
 
-## 💻 Công nghệ sử dụng (Tech Stack)
 
-* **Frontend:** [Ví dụ: ReactJS / Thymeleaf / JSP / HTML5 & CSS3]
-* **Backend:** [Ví dụ: Java Spring Boot / C# .NET / NodeJS / PHP Laravel]
-* **Database:** [Ví dụ: MySQL / SQL Server / PostgreSQL]
-* **Tools:** [Ví dụ: Maven, Post
+
