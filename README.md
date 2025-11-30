@@ -33,5 +33,19 @@ Dự án này là một ứng dụng web/phần mềm cho phép người dùng t
 
 **Tính toán chiết khấu:** Áp dụng mã giảm giá hoặc ưu đãi theo mùa.
 
+## 👥 Thành Viên Nhóm Thực Hiện
+**Đề tài:** Hệ thống Quản lý Khách sạn & Du lịch
+
+## 📅 Phân công nhiệm vụ 
+
+  **Vẽ hình / Mô hình hóa:** Huỳnh Thị Như Quỳnh (`N23DCCN186`)
+  
+  **Tạo bảng / Database:** Nguyễn Trần Sony (`N23DCAT059`)
+  
+  **Coding / Lập trình:**
+  
+   Nguyễn Văn Phúc Hiệp (`N23DCAT024`) - *Trưởng nhóm*
+      
+   Trần Nguyễn Hồng Vinh (`N23DCAT076`)
 
 
