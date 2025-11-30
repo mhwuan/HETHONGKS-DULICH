@@ -1,4 +1,4 @@
-# 🏨 Hotel Booking Management System
+#  Hotel Booking Management System
 
 > Một hệ thống quản lý và đặt phòng khách sạn toàn diện, hỗ trợ quản lý giá theo mùa vụ và xử lý logic đặt phòng thông minh.
 
@@ -12,9 +12,9 @@ Dự án này là một ứng dụng web/phần mềm cho phép người dùng t
 
 Điểm nổi bật của hệ thống là khả năng xử lý các nghiệp vụ phức tạp như: kiểm tra trùng lịch (availability check), tính toán giá theo mùa/ngày lễ và hệ thống đánh giá khách quan.
 
-## 🚀 Tính năng chính (Features)
+##  Tính năng chính (Features)
 
-### 👤 Dành cho Khách hàng (User)
+###  Dành cho Khách hàng (User)
 
 **Tìm kiếm thông minh:** Tìm phòng theo tên khách sạn, ngày nhận (Check-in) và ngày trả (Check-out).
 
@@ -25,7 +25,7 @@ Dự án này là một ứng dụng web/phần mềm cho phép người dùng t
 **Đánh giá (Review):** Gửi đánh giá và bình luận sau khi hoàn thành kỳ nghỉ.
 
 
-### ⚙️ Logic xử lý & Backend (Core Logic)
+###  Logic xử lý & Backend (Core Logic)
 
 **Kiểm tra tính hợp lệ:** Thuật toán tự động phát hiện và ngăn chặn việc đặt trùng phòng trong cùng một khoảng thời gian.
 
@@ -33,7 +33,7 @@ Dự án này là một ứng dụng web/phần mềm cho phép người dùng t
 
 **Tính toán chiết khấu:** Áp dụng mã giảm giá hoặc ưu đãi theo mùa.
 
-## 👥 Thành Viên Nhóm Thực Hiện
+##  Thành Viên Nhóm Thực Hiện
 **Đề tài:** Hệ thống Quản lý Khách sạn & Du lịch
 
 Nguyễn Văn Phúc Hiệp (N23DCAT024) - Nhóm trưởng
